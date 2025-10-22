@@ -57,9 +57,10 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Software Developer</h3>
       <p className="home__description">
-        I am a computer science student. I have interest in creating software
-        application. I have qualities like teamwork, problem solving and lead
-        the team.
+        Accomplished Software Developer at Bpointer Technologies Pvt Ltd, specializing in Laravel development and AWS deployment. 
+        Expertly crafted RESTful APIs and integrated secure payment gateways, enhancing application functionality by 30%. Proven 
+        ability to collaborate effectively with cross-functional teams, delivering innovative and scalable solutions. Skilled in 
+        optimizing performance and ensuring secure data transmission.
       </p>
       <h1 className="home__subtitle2">Welcome To My Portfolio !</h1>
       <a href="#contact" className="button button--flex">
